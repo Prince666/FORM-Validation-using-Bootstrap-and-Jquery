@@ -1,0 +1,22 @@
+body
+{
+  
+    max-width: 350px;
+    margin: auto;
+    margin-top:80px;
+}
+
+h2
+{
+    text-align: center;
+    font-family: 'Squada One', cursive;
+}
+
+form
+{
+    width: 400px;
+    padding: 10px 10px;
+    border: #c1c1c1 solid 1px;
+    
+}
+
